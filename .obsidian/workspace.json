@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "c130929bf4c6a5c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "66810479adb252fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a708b609e9f4971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Roadmap/Market_and_SoftSkills.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Market_and_SoftSkills"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "256c055cd75b39cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "da6af450363c569b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b83f59f282242272",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "d722a1bd23e171d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "1a2d251b5fdde43f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df7258b697062c1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3c2a8234ced51ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9cc22992efbfe67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Roadmap/Market_and_SoftSkills.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Market_and_SoftSkills"
+            }
+          },
+          {
+            "id": "2622ec9d18ba2cb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_Roadmap/Market_and_SoftSkills.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Market_and_SoftSkills"
+            }
+          },
+          {
+            "id": "1072bd27cd8af577",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "bb4ad1c53bb29622",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "447f39fdb0d90076",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Roadmap/Market_and_SoftSkills.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Market_and_SoftSkills"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "7a708b609e9f4971",
+  "lastOpenFiles": [
+    "01_Roadmap/Suivi_Roadmap.md",
+    "01_Roadmap/Market_and_SoftSkills.md",
+    "02_Fiches_Techniques/DevOps_Automatisation_Workflows.md",
+    "02_Fiches_Techniques/Odoo_PostgreSQL_Optimization.md",
+    "01_Roadmap/Roadmap_Vision.md",
+    "02_Fiches_Techniques/Python_Advanced_Clean_Code.md",
+    "02_Fiches_Techniques/Odoo_OWL_Framework.md",
+    "02_Fiches_Techniques/IA_Concepts_RAG.md",
+    "04_Templates/Odoo OWL.md",
+    "04_Templates/Template_Cours.md",
+    "04_Templates",
+    "03_Laboratoire",
+    "02_Fiches_Techniques",
+    "01_Roadmap"
+  ]
+}
