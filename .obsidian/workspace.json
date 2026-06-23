@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Market_and_SoftSkillsb"
             }
+          },
+          {
+            "id": "efca35a02125e65c",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,15 +222,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7a708b609e9f4971",
+  "active": "efca35a02125e65c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "01_Roadmap/Market_and_SoftSkillsb.md",
     "10_Master-IA/Bienvenue.md",
     "10_Master-IA",
     "00_INBOX/créez un lien.md",
     "00_INBOX/Bienvenue.md",
     "00_INBOX",
     "01_Roadmap/Suivi_Roadmap.md",
-    "01_Roadmap/Market_and_SoftSkillsb.md",
     "02_Fiches_Techniques/DevOps_Automatisation_Workflows.md",
     "02_Fiches_Techniques/Odoo_PostgreSQL_Optimization.md",
     "01_Roadmap/Roadmap_Vision.md",
