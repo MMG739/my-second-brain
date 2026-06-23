@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "66810479adb252fe",
+        "id": "0b65eccb6d054a3b",
         "type": "tabs",
         "children": [
           {
-            "id": "7a708b609e9f4971",
+            "id": "b3b3d04bf4efe7be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Roadmap/Market_and_SoftSkillsb.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Market_and_SoftSkillsb"
-            }
-          },
-          {
-            "id": "efca35a02125e65c",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+              "title": "Nouvel onglet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,14 +198,16 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "bases:Créer une nouvelle base": false
     }
   },
-  "active": "efca35a02125e65c",
+  "active": "5c098c01b840b48a",
   "lastOpenFiles": [
+    "2026-06-23.md",
     "conflict-files-obsidian-git.md",
+    "Sans titre.canvas",
     "01_Roadmap/Market_and_SoftSkillsb.md",
     "10_Master-IA/Bienvenue.md",
     "10_Master-IA",
