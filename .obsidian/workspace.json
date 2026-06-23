@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Roadmap/Market_and_SoftSkills.md",
+                "file": "01_Roadmap/Market_and_SoftSkillsb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Market_and_SoftSkills"
+              "title": "Market_and_SoftSkillsb"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Roadmap/Market_and_SoftSkills.md",
+                "file": "01_Roadmap/Market_and_SoftSkillsb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Market_and_SoftSkills"
+              "title": "Rétrolien pour Market_and_SoftSkillsb"
             }
           },
           {
@@ -164,13 +164,35 @@
               "icon": "lucide-list",
               "title": "Plan de Market_and_SoftSkills"
             }
+          },
+          {
+            "id": "a5110d8466f7779b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "01_Roadmap/Market_and_SoftSkillsb.md"
+              },
+              "icon": "lucide-info",
+              "title": "Propriétés du fichier pour Market_and_SoftSkillsb"
+            }
+          },
+          {
+            "id": "5c098c01b840b48a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,8 +209,13 @@
   },
   "active": "7a708b609e9f4971",
   "lastOpenFiles": [
+    "10_Master-IA/Bienvenue.md",
+    "10_Master-IA",
+    "00_INBOX/créez un lien.md",
+    "00_INBOX/Bienvenue.md",
+    "00_INBOX",
     "01_Roadmap/Suivi_Roadmap.md",
-    "01_Roadmap/Market_and_SoftSkills.md",
+    "01_Roadmap/Market_and_SoftSkillsb.md",
     "02_Fiches_Techniques/DevOps_Automatisation_Workflows.md",
     "02_Fiches_Techniques/Odoo_PostgreSQL_Optimization.md",
     "01_Roadmap/Roadmap_Vision.md",
