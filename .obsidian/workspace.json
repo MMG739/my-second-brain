@@ -11,10 +11,10 @@
             "id": "b3b3d04bf4efe7be",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
             }
           }
         ]
@@ -203,12 +203,12 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "5c098c01b840b48a",
+  "active": "b3b3d04bf4efe7be",
   "lastOpenFiles": [
+    "01_Roadmap/Market_and_SoftSkillsb.md",
     "2026-06-23.md",
     "conflict-files-obsidian-git.md",
     "Sans titre.canvas",
-    "01_Roadmap/Market_and_SoftSkillsb.md",
     "10_Master-IA/Bienvenue.md",
     "10_Master-IA",
     "00_INBOX/créez un lien.md",
