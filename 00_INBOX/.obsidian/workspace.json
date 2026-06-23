@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "c8e7e0af583b4382",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "675afb5758b08ba0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -190,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
@@ -201,6 +186,7 @@
   },
   "active": "82bbdd8c05808796",
   "lastOpenFiles": [
+    "créez un lien.md",
     "Bienvenue.md"
   ]
 }
