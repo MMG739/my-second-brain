@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b65eccb6d054a3b",
+        "id": "4b9ae3bc9d4644c3",
         "type": "tabs",
         "children": [
           {
-            "id": "b3b3d04bf4efe7be",
+            "id": "e76d69f8f20948af",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Roadmap/Market_and_SoftSkillsb.md",
+                "file": "01_Roadmap/Market_and_SoftSkills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Market_and_SoftSkillsb"
+              "title": "Rétrolien pour Market_and_SoftSkills"
             }
           },
           {
@@ -162,19 +162,7 @@
             }
           },
           {
-            "id": "a5110d8466f7779b",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "01_Roadmap/Market_and_SoftSkillsb.md"
-              },
-              "icon": "lucide-info",
-              "title": "Propriétés du fichier pour Market_and_SoftSkillsb"
-            }
-          },
-          {
-            "id": "5c098c01b840b48a",
+            "id": "68de2c882ac5a950",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -184,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -192,28 +180,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "5c098c01b840b48a",
+  "active": "68de2c882ac5a950",
   "lastOpenFiles": [
-    "2026-06-23.md",
-    "conflict-files-obsidian-git.md",
-    "Sans titre.canvas",
-    "01_Roadmap/Market_and_SoftSkillsb.md",
-    "10_Master-IA/Bienvenue.md",
-    "10_Master-IA",
-    "00_INBOX/créez un lien.md",
-    "00_INBOX/Bienvenue.md",
-    "00_INBOX",
+    "01_Roadmap/Market_and_SoftSkills.md",
+    "01_Roadmap/Market_and_SoftSkills.md",
     "01_Roadmap/Suivi_Roadmap.md",
     "02_Fiches_Techniques/DevOps_Automatisation_Workflows.md",
     "02_Fiches_Techniques/Odoo_PostgreSQL_Optimization.md",
