@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8c3e6bde34ba2b0e",
+        "id": "dd4db760200b26d1",
         "type": "tabs",
         "children": [
           {
-            "id": "dce945bc2c7da51e",
+            "id": "edf19a4a825862ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Roadmap/Roadmap_Vision.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roadmap_Vision"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
             }
           }
         ]
@@ -41,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -192,46 +188,58 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "obsidian-kanban:Create new board": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "dce945bc2c7da51e",
+  "active": "edf19a4a825862ff",
   "lastOpenFiles": [
-    "01_Roadmap/Market_and_SoftSkills.md",
-    "conflict-files-obsidian-git.md",
-    "01_Roadmap/Market_and_SoftSkillsb.md",
-    "2026-06-23.md",
-    "Sans titre.canvas",
-    "10_Master-IA/Bienvenue.md",
-    "10_Master-IA",
-    "00_INBOX/créez un lien.md",
-    "00_INBOX/Bienvenue.md",
-    "00_INBOX",
-    "01_Roadmap/Suivi_Roadmap.md",
-    "02_Fiches_Techniques/DevOps_Automatisation_Workflows.md",
-    "02_Fiches_Techniques/Odoo_PostgreSQL_Optimization.md",
-    "01_Roadmap/Roadmap_Vision.md",
-    "02_Fiches_Techniques/Python_Advanced_Clean_Code.md",
-    "02_Fiches_Techniques/Odoo_OWL_Framework.md",
-    "02_Fiches_Techniques/IA_Concepts_RAG.md",
-    "04_Templates/Odoo OWL.md",
+    "10_Master-IA/Plan.md",
+    "05_Office/YROS/YROS.md",
+    "06_Freelance/Nexadec",
+    "05_Office/YROS/YROS_Board.md",
+    "05_Office/YROS/YROS-SN.md",
+    "05_Office/YROS/YROS-NE.md",
+    "05_Office/YROS/YROS-CI.md",
+    "04_Templates/Template_Daily.md",
+    "02_Fiches_Techniques/Certifications/Certif_AWS_Developer.md",
+    "02_Fiches_Techniques/Certifications/Certif_Odoo.md",
+    "02_Fiches_Techniques/Cloud_DevOps/DevOps_Terraform.md",
+    "02_Fiches_Techniques/IA_LLMOps/IA_LLMOps.md",
+    "02_Fiches_Techniques/IA_LLMOps/IA_LangChain.md",
+    "02_Fiches_Techniques/IA_LLMOps/IA_Concepts_RAG.md",
+    "02_Fiches_Techniques/Cloud_DevOps/DevOps_Automatisation_Workflows.md",
+    "02_Fiches_Techniques/Odoo_Python/Python_Advanced_Clean_Code.md",
+    "02_Fiches_Techniques/Odoo_Python/Odoo_PostgreSQL_Optimization.md",
+    "02_Fiches_Techniques/Odoo_Python/Odoo_OWL_Framework.md",
+    "02_Fiches_Techniques/Certifications",
+    "02_Fiches_Techniques/IA_LLMOps",
+    "02_Fiches_Techniques/Cloud_DevOps",
+    "02_Fiches_Techniques/Odoo_Python",
     "04_Templates/Template_Cours.md",
-    "04_Templates",
-    "03_Laboratoire",
-    "02_Fiches_Techniques",
-    "01_Roadmap"
+    "04_Templates/Odoo OWL.md",
+    "05_Office/Exco",
+    "05_Office/MyKreno",
+    "05_Office/Farmtrack",
+    "10_Master-IA/Reunions_Encadrant.md",
+    "10_Master-IA/Journal_Recherche.md",
+    "10_Master-IA/Bibliographie.md",
+    "10_Master-IA/Sujet.md",
+    "06_Freelance/Xipi/XIPI.md",
+    "02_Fiches_Techniques/DevOps_Terraform.md",
+    "06_Freelance/Xipi",
+    "06_Freelance",
+    "Sans titre.canvas"
   ]
 }
