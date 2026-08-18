@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## 📥 Backlog (Toutes les étapes)
 
+- [ ] [Fiche : Python Avancé & Clean Code](02_Fiches_Techniques/Python_Advanced_Clean_Code.md)
 - [ ] [Fiche : Odoo Framework OWL & Widgets](02_Fiches_Techniques/Odoo_OWL_Framework.md)
 - [ ] [Fiche : Optimisation PostgreSQL & ORM Odoo](02_Fiches_Techniques/Odoo_PostgreSQL_Optimization.md)
 - [ ] [Certif : Préparation Certification Officielle Odoo](02_Fiches_Techniques/Certif_Odoo.md)
@@ -19,7 +20,6 @@ kanban-plugin: board
 
 ## ⏳ En cours (Priorité Immédiate - Max 2)
 
-- [ ] [Fiche : Python Avancé & Clean Code](02_Fiches_Techniques/Python_Advanced_Clean_Code.md)
 
 
 ## 🧪 À Tester (Laboratoire Pratique)

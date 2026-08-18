@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4b9ae3bc9d4644c3",
+        "id": "2b9f91b498e7e584",
         "type": "tabs",
         "children": [
           {
-            "id": "e76d69f8f20948af",
+            "id": "38374be5a9940ec0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-08-14.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "title": "2026-08-14"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -191,19 +197,38 @@
       "bases:Créer une nouvelle base": false
     }
   },
-  "active": "68de2c882ac5a950",
+  "active": "38374be5a9940ec0",
   "lastOpenFiles": [
-    "01_Roadmap/Market_and_SoftSkills.md",
-    "01_Roadmap/Market_and_SoftSkills.md",
+    "2026-08-12.md",
+    "2026-08-14.md",
+    "00_INBOX/Bienvenue.md",
+    "00_INBOX/créez un lien.md",
+    "10_Memoire_Master-IA/_Index_Memoire.md",
+    "10_Memoire_Master-IA/1_Sources/Bibliographie.md",
+    "10_Memoire_Master-IA/2_Notes_Brutes/Boite_a_Idees.md",
+    "02_Fiches_Techniques/NLP.md",
+    "10_Memoire_Master-IA/Sans titre",
+    "10_Memoire_Master-IA/3_Drafts",
+    "10_Memoire_Master-IA/2_Notes_Brutes",
+    "10_Memoire_Master-IA/1_Sources",
+    "10_Memoire_Master-IA/0_Gestion",
     "01_Roadmap/Suivi_Roadmap.md",
-    "02_Fiches_Techniques/DevOps_Automatisation_Workflows.md",
-    "02_Fiches_Techniques/Odoo_PostgreSQL_Optimization.md",
-    "01_Roadmap/Roadmap_Vision.md",
-    "02_Fiches_Techniques/Python_Advanced_Clean_Code.md",
-    "02_Fiches_Techniques/Odoo_OWL_Framework.md",
-    "02_Fiches_Techniques/IA_Concepts_RAG.md",
-    "04_Templates/Odoo OWL.md",
+    "Sans titre.canvas",
     "04_Templates/Template_Cours.md",
+    "01_Roadmap/Roadmap_Vision.md",
+    "01_Roadmap/Market_and_SoftSkills.md",
+    "02_Fiches_Techniques/IA_Concepts_RAG.md",
+    "02_Fiches_Techniques/Certif_AWS_Developer.md",
+    "02_Fiches_Techniques/Certif_Odoo.md",
+    "02_Fiches_Techniques/DevOps_Terraform.md",
+    "02_Fiches_Techniques/IA_LLMOps.md",
+    "02_Fiches_Techniques/IA_LangChain.md",
+    "02_Fiches_Techniques/Python_Advanced_Clean_Code.md",
+    "02_Fiches_Techniques/Odoo_PostgreSQL_Optimization.md",
+    "02_Fiches_Techniques/Odoo_OWL_Framework.md",
+    "02_Fiches_Techniques/DevOps_Automatisation_Workflows.md",
+    "04_Templates/Odoo OWL.md",
+    "00_INBOX/Bienvenue 1.md",
     "04_Templates",
     "03_Laboratoire",
     "02_Fiches_Techniques",
