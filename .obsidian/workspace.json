@@ -11,14 +11,10 @@
             "id": "38374be5a9940ec0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-08-14.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-08-14"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -199,8 +195,8 @@
   },
   "active": "38374be5a9940ec0",
   "lastOpenFiles": [
-    "2026-08-12.md",
     "2026-08-14.md",
+    "2026-08-12.md",
     "00_INBOX/Bienvenue.md",
     "00_INBOX/créez un lien.md",
     "10_Memoire_Master-IA/_Index_Memoire.md",
